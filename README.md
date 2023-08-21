@@ -1,10 +1,14 @@
-## Hola 👋, Soy Jorge Bedoya 👨‍💻
+¡Hola! Soy Jorge Bedoya, un apasionado estudiante de Ingeniería en Sistemas y Computación, con una sólida base como Técnico en Sistemas y Redes de Datos. También cuento con experiencia en el campo de Seguridad Electrónica.
 
-Técnico en sistemas y redes de datos, Ingeniero en sistemas y computación en formación, cuento con experiencia en resolución de fallas de Hardware, Software y electrónica enfocada a la computación. 
+Mi objetivo es crecer profesionalmente y contribuir de manera significativa en equipos de trabajo excepcionales.
 
-Busco constantemente desarrollarme profesionalmente, cumplir con las metas propuestas, formar parte de un excelente equipo de trabajo cooperando y apoyándolos de la mejor manera posible.
+**Experiencia y Habilidades**
 
-Me caracterizo por ser proactivo y con gran pasión por el aprendizaje.
+Como desarrollador front-end, tengo habilidades en varias tecnologías web, incluyendo HTML, CSS, JavaScript, y herramientas como Node.js. Además, he trabajado con lenguajes de programación como Python y C++. Estoy familiarizado con control de versiones mediante Git y tengo conocimientos en el uso de PHP para el desarrollo web dinámico. También cuento con experiencia en resolución de problemas relacionados con Hardware, Software y electrónica, lo que me brinda una perspectiva integral en el mundo de la informática.
+
+***Proactivo y Apasionado por el Aprendizaje***
+
+Mi enfoque proactivo en el aprendizaje me impulsa a explorar nuevas tecnologías y metodologías constantemente. Tengo un trasfondo en dibujo arquitectónico utilizando herramientas como SketchUp y AutoCAD, lo que amplía aún más mi conjunto de habilidades.
 
 --------------
 **Skills:**
@@ -21,7 +25,8 @@ Me caracterizo por ser proactivo y con gran pasión por el aprendizaje.
 
 --------------
 
-Conecta conmigo:
+¡Me encantaría mantenerme en contacto contigo! 
+Puedes encontrarme en mi perfil de LinkedIn, conéctate conmigo para colaborar, compartir conocimientos y aprender juntos.
 
 [![](https://user-images.githubusercontent.com/54302061/211169314-64c36b3c-93cb-40ad-9e5d-4071d19552d5.png)](https://www.linkedin.com/in/georgedev17/)
 
