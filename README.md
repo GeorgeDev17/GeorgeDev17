@@ -10,6 +10,8 @@ Como desarrollador front-end, tengo habilidades en varias tecnologías web, incl
 
 Mi enfoque proactivo en el aprendizaje me impulsa a explorar nuevas tecnologías y metodologías constantemente. Tengo un trasfondo en dibujo arquitectónico utilizando herramientas como SketchUp y AutoCAD, lo que amplía aún más mi conjunto de habilidades.
 
+"Al igual que en las artes marciales, encuentro en la tecnología y el desarrollo un camino de constante superación y disciplina."
+
 --------------
 **Skills:**
 
