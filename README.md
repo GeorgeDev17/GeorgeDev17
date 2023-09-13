@@ -24,6 +24,7 @@ Tengo un trasfondo en dibujo arquitectónico utilizando herramientas como Sketch
 [![React48px.png](https://i.postimg.cc/CMC7PzH2/React48px.png)](https://postimg.cc/yWd0W6Gh)
 ![python](https://user-images.githubusercontent.com/54302061/211168102-fb84a548-1019-4fb4-8ed4-d89a9b8fb4e4.png)
 ![c++](https://user-images.githubusercontent.com/54302061/211190233-b7b57818-3537-4035-b5ba-a930e0abbbb8.png)
+[![csharp.png](https://i.postimg.cc/h4kwd8QL/csharp.png)](https://postimg.cc/pyBqNFZr)
 ![java](https://user-images.githubusercontent.com/54302061/211168153-061a83aa-e2f9-45eb-bb4c-0db1679f0bc0.png)
 [![Php64px.png](https://i.postimg.cc/m2z5dbk1/Php64px.png)](https://postimg.cc/tYbkJGh9)
 [![nodejs64px.png](https://i.postimg.cc/xCWnZ6vK/nodejs64px.png)](https://postimg.cc/zbSsbSPB)
