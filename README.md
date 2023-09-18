@@ -18,6 +18,7 @@ Tengo un trasfondo en dibujo arquitectónico utilizando herramientas como Sketch
 **Skills:**
 
 [![Linux48px.png](https://i.postimg.cc/9FChKw3w/Linux48px.png)](https://postimg.cc/nMRgQzhn)
+[![markdown48px.png](https://i.postimg.cc/d3P4cQXb/markdown48px.png)](https://postimg.cc/G8KkkRbK)
 ![html](https://user-images.githubusercontent.com/54302061/211168057-9d053689-3a2a-46b1-bfbb-1395ab3e893b.png)
 ![css](https://user-images.githubusercontent.com/54302061/211168069-013c48b5-fb25-4bcf-950a-55aa30cf8720.png)
 ![js](https://user-images.githubusercontent.com/54302061/211168085-73aed99e-1510-4bb5-b92a-9c7844be7ae9.png)
