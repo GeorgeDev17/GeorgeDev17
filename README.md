@@ -39,6 +39,7 @@ Tengo un trasfondo en dibujo arquitectónico utilizando herramientas como Sketch
 [![markdown48px.png](https://i.postimg.cc/d3P4cQXb/markdown48px.png)](https://postimg.cc/G8KkkRbK)
 [![visual-studio48px.png](https://i.postimg.cc/7h6sgvDw/visual-studio48px.png)](https://postimg.cc/G8WxC5H5)
 [![IDEvisual-studio48px.png](https://i.postimg.cc/QN0RRkdK/IDEvisual-studio48px.png)](https://postimg.cc/rzRn44Wq)
+[![intellij48px.png](https://i.postimg.cc/mgNqyQJr/intellij48px.png)](https://postimg.cc/G4tqcsc0)
 [![Git48px.png](https://i.postimg.cc/fLXR8qNd/Git48px.png)](https://postimg.cc/1nmStH4R)
 [![1figma48px.png](https://i.postimg.cc/kGKRtX4k/1figma48px.png)](https://postimg.cc/N2Gj3tR4)
 [![1trello48px.png](https://i.postimg.cc/4Nvhfdjc/1trello48px.png)](https://postimg.cc/KRzYQZGc)
