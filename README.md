@@ -1,4 +1,5 @@
-¡Hola! Soy Jorge Bedoya, un apasionado estudiante de Ingeniería en Sistemas y Computación, con una sólida base como Técnico en Sistemas y Redes de Datos. También cuento con experiencia en el campo de Seguridad Electrónica.
+# ¡Hola! Soy GeorgeDev,  
+Apasionado estudiante de Ingeniería en Sistemas y Computación, con una sólida base como Técnico en Sistemas y Redes de Datos. También cuento con experiencia en el campo de Seguridad Electrónica.
 
 Mi objetivo es crecer profesionalmente y contribuir de manera significativa en equipos de trabajo excepcionales.
 
@@ -15,22 +16,32 @@ Tengo un trasfondo en dibujo arquitectónico utilizando herramientas como Sketch
 "Al igual que en las artes marciales, encuentro en la tecnología y el desarrollo un camino de constante superación y disciplina."
 
 --------------
-**Skills:**
+**Skills:**  
+***Lenguajes de programación***  
+![c++](https://user-images.githubusercontent.com/54302061/211190233-b7b57818-3537-4035-b5ba-a930e0abbbb8.png)
+![java](https://user-images.githubusercontent.com/54302061/211168153-061a83aa-e2f9-45eb-bb4c-0db1679f0bc0.png)
+![python](https://user-images.githubusercontent.com/54302061/211168102-fb84a548-1019-4fb4-8ed4-d89a9b8fb4e4.png)
 
-[![Linux48px.png](https://i.postimg.cc/9FChKw3w/Linux48px.png)](https://postimg.cc/nMRgQzhn)
-[![markdown48px.png](https://i.postimg.cc/d3P4cQXb/markdown48px.png)](https://postimg.cc/G8KkkRbK)
+***Front-end***  
 ![html](https://user-images.githubusercontent.com/54302061/211168057-9d053689-3a2a-46b1-bfbb-1395ab3e893b.png)
 ![css](https://user-images.githubusercontent.com/54302061/211168069-013c48b5-fb25-4bcf-950a-55aa30cf8720.png)
 ![js](https://user-images.githubusercontent.com/54302061/211168085-73aed99e-1510-4bb5-b92a-9c7844be7ae9.png)
-[![React48px.png](https://i.postimg.cc/CMC7PzH2/React48px.png)](https://postimg.cc/yWd0W6Gh)
-![python](https://user-images.githubusercontent.com/54302061/211168102-fb84a548-1019-4fb4-8ed4-d89a9b8fb4e4.png)
-![c++](https://user-images.githubusercontent.com/54302061/211190233-b7b57818-3537-4035-b5ba-a930e0abbbb8.png)
-![java](https://user-images.githubusercontent.com/54302061/211168153-061a83aa-e2f9-45eb-bb4c-0db1679f0bc0.png)
+
+***Back-end***  
 [![Php64px.png](https://i.postimg.cc/m2z5dbk1/Php64px.png)](https://postimg.cc/tYbkJGh9)
-[![nodejs64px.png](https://i.postimg.cc/xCWnZ6vK/nodejs64px.png)](https://postimg.cc/zbSsbSPB)
-[![Git64px.png](https://i.postimg.cc/sfqMFcjH/Git64px.png)](https://postimg.cc/XXKjd9y9)
+[![nodejs48px.png](https://i.postimg.cc/LsQ1cbw0/nodejs48px.png)](https://postimg.cc/kV8G8fnx)
 
+***Frameworks y librerías***  
+[![React48px.png](https://i.postimg.cc/CMC7PzH2/React48px.png)](https://postimg.cc/yWd0W6Gh)
 
+***Software y herramientas***  
+[![Linux48px.png](https://i.postimg.cc/9FChKw3w/Linux48px.png)](https://postimg.cc/nMRgQzhn)
+[![markdown48px.png](https://i.postimg.cc/d3P4cQXb/markdown48px.png)](https://postimg.cc/G8KkkRbK)
+[![visual-studio48px.png](https://i.postimg.cc/7h6sgvDw/visual-studio48px.png)](https://postimg.cc/G8WxC5H5)
+[![IDEvisual-studio48px.png](https://i.postimg.cc/QN0RRkdK/IDEvisual-studio48px.png)](https://postimg.cc/rzRn44Wq)
+[![Git48px.png](https://i.postimg.cc/fLXR8qNd/Git48px.png)](https://postimg.cc/1nmStH4R)
+[![1figma48px.png](https://i.postimg.cc/kGKRtX4k/1figma48px.png)](https://postimg.cc/N2Gj3tR4)
+[![1trello48px.png](https://i.postimg.cc/4Nvhfdjc/1trello48px.png)](https://postimg.cc/KRzYQZGc)
 
 --------------
 
