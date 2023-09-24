@@ -36,30 +36,4 @@ Puedes encontrarme en mi perfil de LinkedIn, conéctate conmigo para colaborar, 
 
 [![](https://user-images.githubusercontent.com/54302061/211169314-64c36b3c-93cb-40ad-9e5d-4071d19552d5.png)](https://www.linkedin.com/in/georgedev17/)
 
-<!--
-[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/Jorge-Bedoya)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Jorge-Bedoya)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/Jorge-Bedoya&show_icons=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/Jorge-Bedoya)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/Jorge-Bedoya)  
-
-![Profile views](https://gpvc.arturio.dev/https://github.com/Jorge-Bedoya)
-
-<!--
-**Jorge-Bedoya/Jorge-Bedoya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+--------------
