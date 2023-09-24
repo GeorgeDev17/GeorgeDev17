@@ -25,10 +25,10 @@ Tengo un trasfondo en dibujo arquitectónico utilizando herramientas como Sketch
 ***Front-end***  
 ![html](https://user-images.githubusercontent.com/54302061/211168057-9d053689-3a2a-46b1-bfbb-1395ab3e893b.png)
 ![css](https://user-images.githubusercontent.com/54302061/211168069-013c48b5-fb25-4bcf-950a-55aa30cf8720.png)
-![js](https://user-images.githubusercontent.com/54302061/211168085-73aed99e-1510-4bb5-b92a-9c7844be7ae9.png)
+[![Js48px.png](https://i.postimg.cc/SxR4R1Jh/Js48px.png)](https://postimg.cc/nCygwk4R)
 
 ***Back-end***  
-[![Php64px.png](https://i.postimg.cc/m2z5dbk1/Php64px.png)](https://postimg.cc/tYbkJGh9)
+[![php48px.png](https://i.postimg.cc/5ypcN8Jy/php48px.png)](https://postimg.cc/hQJZ2zfR)
 [![nodejs48px.png](https://i.postimg.cc/LsQ1cbw0/nodejs48px.png)](https://postimg.cc/kV8G8fnx)
 
 ***Frameworks y librerías***  
