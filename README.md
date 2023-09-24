@@ -35,5 +35,3 @@ Tengo un trasfondo en dibujo arquitectónico utilizando herramientas como Sketch
 Puedes encontrarme en mi perfil de LinkedIn, conéctate conmigo para colaborar, compartir conocimientos y aprender juntos.
 
 [![](https://user-images.githubusercontent.com/54302061/211169314-64c36b3c-93cb-40ad-9e5d-4071d19552d5.png)](https://www.linkedin.com/in/georgedev17/)
-
---------------
