@@ -1,19 +1,22 @@
-# ¡Hola! Soy GeorgeDev,  
-Apasionado estudiante de Ingeniería en Sistemas y Computación, con una sólida base como Técnico en Sistemas y Redes de Datos. También cuento con experiencia en el campo de Seguridad Electrónica.
+# ¡Hola! Soy GeorgeDev, 👨🏻‍💻 
 
-Mi objetivo es crecer profesionalmente y contribuir de manera significativa en equipos de trabajo excepcionales.
+Apasionado estudiante de Ingeniería en Sistemas y Computación, 🚀 con una sólida base como Técnico en Sistemas y Redes de Datos. También cuento con experiencia en el campo de Seguridad Electrónica. 🔒
+
+Mi objetivo es crecer profesionalmente y contribuir de manera significativa en equipos de trabajo excepcionales. 💪
 
 --------------
-## Experiencia y Habilidades
 
-Como desarrollador front-end, tengo habilidades en varias tecnologías web, incluyendo HTML, CSS, JavaScript, y herramientas como Node.js. Además, he trabajado con lenguajes de programación como Python y C++. Estoy familiarizado con control de versiones mediante Git y tengo conocimientos en el uso de PHP para el desarrollo web dinámico. También cuento con experiencia en resolución de problemas relacionados con Hardware, Software y electrónica, lo que me brinda una perspectiva integral en el mundo de la informática.
+## Experiencia y Habilidades 💼
 
-### Proactivo y Apasionado por el Aprendizaje
+Como desarrollador front-end, tengo habilidades en varias tecnologías web, incluyendo HTML, CSS, JavaScript, y herramientas como Node.js. Además, he trabajado con lenguajes de programación como Python y C++. Estoy familiarizado con control de versiones mediante Git y tengo conocimientos en el uso de PHP para el desarrollo web dinámico. También cuento con experiencia en resolución de problemas relacionados con Hardware, Software y electrónica, lo que me brinda una perspectiva integral en el mundo de la informática. 💻
+
+### Proactivo y Apasionado por el Aprendizaje 📚
 
 Mi enfoque proactivo en el aprendizaje, me impulsa a explorar nuevas tecnologías y metodologías constantemente. 
-Tengo un trasfondo en dibujo arquitectónico utilizando herramientas como SketchUp y AutoCAD, lo que amplía aún más mi conjunto de habilidades.
+Tengo un trasfondo en dibujo arquitectónico utilizando herramientas como SketchUp y AutoCAD, lo que amplía aún más mi conjunto de habilidades. 🏢
 
-"Al igual que en las artes marciales, encuentro en la tecnología y el desarrollo un camino de constante superación y disciplina."
+"Al igual que en las artes marciales, encuentro en la tecnología y el desarrollo un camino de constante superación y disciplina." 🥋
+
 
 --------------
 
