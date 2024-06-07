@@ -1,8 +1,9 @@
 # ¡Hola! Soy GeorgeDev, 👨🏻‍💻 
+Soy un Desarrollador Front-end apasionado con una formación técnica en Sistemas y Redes de Datos. 🚀 Mi experiencia abarca desde el desarrollo web, utilizando HTML, CSS, JavaScript, React y PHP, hasta la integración de sistemas de seguridad electrónica como CCTV, alarmas y controles de acceso.  
 
-Apasionado estudiante de Ingeniería en Sistemas y Computación, 🚀 con una sólida base como Técnico en Sistemas y Redes de Datos. También cuento con experiencia en el campo de Seguridad Electrónica. 🔒
+Siempre estoy en la búsqueda de oportunidades para mejorar mis competencias y contribuir con soluciones innovadoras.
 
-Mi objetivo es crecer profesionalmente y contribuir de manera significativa en equipos de trabajo excepcionales. 💪
+Mi pasión por la tecnología y el aprendizaje constante me impulsa a superar desafíos.💪
 
 --------------
 
