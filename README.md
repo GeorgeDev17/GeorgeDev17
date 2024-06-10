@@ -7,14 +7,32 @@ Mi pasión por la tecnología y el aprendizaje constante me impulsa a superar de
 
 --------------
 
-## Experiencia y Habilidades 💼
 
-Como desarrollador front-end, tengo habilidades en varias tecnologías web, incluyendo HTML, CSS, JavaScript, y herramientas como Node.js. Además, he trabajado con lenguajes de programación como Python y C++. Estoy familiarizado con control de versiones mediante Git y tengo conocimientos en el uso de PHP para el desarrollo web dinámico. También cuento con experiencia en resolución de problemas relacionados con Hardware, Software y electrónica, lo que me brinda una perspectiva integral en el mundo de la informática. 💻
+## 🔧 Habilidades Técnicas 💼
+💻 Desarrollo Web:
+
+    Lenguajes: HTML, CSS, JavaScript, PHP.
+    Frameworks: React.
+    Herramientas de Diseño: Figma, photoshop.
+    Control de Versiones: Git.
+
+🖥️ Lenguajes de Programación:
+
+    C++, JavaScript.
+
+🔧 Mantenimiento y Reparación de Equipos de Cómputo:
+    Diagnóstico y Resolución de Problemas.
+    Instalación y Configuración.
+    Reparación electrónica.
+
+🛡️ Seguridad Electrónica:
+
+    Sistemas de Vigilancia: CCTV, alarmas, control de acceso, citofonía.
+    SketchUp y AutoCAD para dibujo arquitectónico.
 
 ### Proactivo y Apasionado por el Aprendizaje 📚
 
-Mi enfoque proactivo en el aprendizaje, me impulsa a explorar nuevas tecnologías y metodologías constantemente. 
-Tengo un trasfondo en dibujo arquitectónico utilizando herramientas como SketchUp y AutoCAD, lo que amplía aún más mi conjunto de habilidades. 🏢
+Mi pasión por el aprendizaje y la exploración de nuevas tecnologías es una constante en mi trayectoria. Esta mentalidad me impulsa a abrazar nuevos desafíos y a desarrollar habilidades que me permitan adaptarme rápidamente a un entorno en constante evolución. Motivado por el aprendizaje continuo, me esfuerzo por innovar y colaborar en proyectos tecnológicos que marquen la diferencia. 🏢
 
 "Al igual que en las artes marciales, encuentro en la tecnología y el desarrollo un camino de constante superación y disciplina." 🥋
 
@@ -33,6 +51,7 @@ Tengo un trasfondo en dibujo arquitectónico utilizando herramientas como Sketch
 --------------
 
 ¡Me encantaría mantenerme en contacto contigo! 
-Puedes encontrarme en mi perfil de LinkedIn, conéctate conmigo para colaborar, compartir conocimientos y aprender juntos.
+Puedes encontrarme en mi perfil de LinkedIn, estoy emocionado por conectar y colaborar con profesionales como tú en el apasionante mundo de la tecnología y la ingeniería. 
+¡No dudes en contactarme para compartir conocimientos y experiencias!
 
 [![](https://user-images.githubusercontent.com/54302061/211169314-64c36b3c-93cb-40ad-9e5d-4071d19552d5.png)](https://www.linkedin.com/in/georgedev17/)
