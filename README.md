@@ -21,6 +21,7 @@ Mi pasión por la tecnología y el aprendizaje constante me impulsa a superar de
     C++, JavaScript.
 
 🔧 Mantenimiento y Reparación de Equipos de Cómputo:
+
     Diagnóstico y Resolución de Problemas.
     Instalación y Configuración.
     Reparación electrónica.
