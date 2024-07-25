@@ -1,9 +1,10 @@
 # ¡Hola! Soy GeorgeDev, 👨🏻‍💻 
-Soy un Desarrollador Front-end apasionado con una formación técnica en Sistemas y Redes de Datos. 🚀 Mi experiencia abarca desde el desarrollo web, utilizando HTML, CSS, JavaScript, React y PHP, hasta la integración de sistemas de seguridad electrónica como CCTV, alarmas y controles de acceso.  
+Soy un profesional apasionado del sector tecnologico formación técnica en Sistemas y Redes de Datos. 
+🚀 Mi experiencia abarca la integración de sistemas de seguridad electrónica como CCTV, alarmas y controles de acceso, así como el mantenimiento y reparación electrónica de equipos de cómputo.
 
-Siempre estoy en la búsqueda de oportunidades para mejorar mis competencias y contribuir con soluciones innovadoras.
+Actualmente me encuentro en un proceso continuo de capacitación en el área del desarrollo web y el hacking ético. He creado proyectos que me han permitido mejorar mis habilidades en HTML5, CSS3, JavaScript y React, desarrollando interfaces dinámicas y responsivas.
 
-Mi pasión por la tecnología y el aprendizaje constante me impulsa a superar desafíos.💪
+Mi objetivo es seguir creciendo como desarrollador y profesional en el campo de la tecnología, y estoy entusiasmado por las posibilidades de contribuir a equipos dinámicos y proyectos desafiantes en el apasionante mundo del desarrollo web y la seguridad informática.
 
 --------------
 
@@ -33,7 +34,10 @@ Mi pasión por la tecnología y el aprendizaje constante me impulsa a superar de
 
 ### Proactivo y Apasionado por el Aprendizaje 📚
 
-Mi pasión por el aprendizaje y la exploración de nuevas tecnologías es una constante en mi trayectoria. Esta mentalidad me impulsa a abrazar nuevos desafíos y a desarrollar habilidades que me permitan adaptarme rápidamente a un entorno en constante evolución. Motivado por el aprendizaje continuo, me esfuerzo por innovar y colaborar en proyectos tecnológicos que marquen la diferencia. 🏢
+Siempre estoy en la búsqueda de oportunidades para mejorar mis competencias y contribuir con soluciones innovadoras.
+Mi aprendizaje ha sido en gran parte autodidacta, lo que demuestra mi capacidad para adaptarme y adquirir nuevas habilidades de manera independiente.
+
+Mi pasión por la tecnología y el aprendizaje constante me impulsa a superar desafíos.💪 🏢
 
 "Al igual que en las artes marciales, encuentro en la tecnología y el desarrollo un camino de constante superación y disciplina." 🥋
 
