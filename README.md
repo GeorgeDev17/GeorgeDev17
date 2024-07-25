@@ -1,5 +1,5 @@
 # ¡Hola! Soy GeorgeDev, 👨🏻‍💻 
-Soy un profesional apasionado del sector tecnologico formación técnica en Sistemas y Redes de Datos. 
+Soy un profesional apasionado del sector tecnológico formación técnica en Sistemas y Redes de Datos. 
 🚀 Mi experiencia abarca la integración de sistemas de seguridad electrónica como CCTV, alarmas y controles de acceso, así como el mantenimiento y reparación electrónica de equipos de cómputo.
 
 Actualmente me encuentro en un proceso continuo de capacitación en el área del desarrollo web y el hacking ético. He creado proyectos que me han permitido mejorar mis habilidades en HTML5, CSS3, JavaScript y React, desarrollando interfaces dinámicas y responsivas.
